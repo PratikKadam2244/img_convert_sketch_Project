@@ -7,3 +7,12 @@ This project used some modules given below:-
    4)import cv2
 Install This Module For below step:-
    example:- pip install numpy  (Same as all module)
+   
+   
+   
+   
+   
+   My Contact Details:-
+   Name:- Pratik Kadam
+   no.:- 8975623356
+   
