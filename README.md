@@ -4,15 +4,9 @@ This project used some modules given below:-
    1)import numpy as np
    2)import imageio
    3)import scipy.ndimage
-   4)import cv2
+   4)import cv2. 
 Install This Module For below step:-
    example:- pip install numpy  (Same as all module)
-   
-   
-   
-   
-   
-   My Contact Details:-
-   Name:- Pratik Kadam
-   no.:- 8975623356
+
+   This Project is best helpful for a painter or skecher.
    
